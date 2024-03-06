@@ -1,4 +1,4 @@
-package BTjava.Lap2;
+package Lap2;
 
 public class BT7 {
     public static void main(String[] args) {

@@ -1,4 +1,5 @@
-package BTjava.Lap2;
+package Lap2;
+
 
 import java.util.Scanner;
 
